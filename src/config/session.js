@@ -1,0 +1,1 @@
+export const SECRET = "asd112.,llDFF123"
